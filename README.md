@@ -2,7 +2,7 @@
 
 I am Raihan Alifianto. I am an undergraduate student of **Informatics ITS 2019**. I love to learn anything about front end!
 
-- 🌱 I’m currently learning on **HTML & CSS**...
+- 🌱 I’m currently learning on **HTML, CSS and Javascript**...
 - 📫 You can reach me via:
     - [📘 Linkedin](https://www.linkedin.com/in/raihan-alifianto/)
     - [📝 Blog](https://raihanalifianto.blogspot.com)
