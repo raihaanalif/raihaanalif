@@ -6,6 +6,7 @@ I am Raihan Alifianto. I am an undergraduate student of **Informatics ITS 2019**
 - 📫 You can reach me via:
     - [📘 Linkedin](https://www.linkedin.com/in/raihan-alifianto/)
     - [📝 Blog](https://raihanalifianto.blogspot.com)
+    - [📷 Instagram](https://www.instagram.com/raihaanalif/)
     - [📧 E-Mail](mailto:raihanalifianto@gmail.com)
 
 ## GitHub Stats
