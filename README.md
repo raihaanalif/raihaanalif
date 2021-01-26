@@ -11,6 +11,6 @@ I am Raihan Alifianto. I am an undergraduate student of **Informatics ITS 2019**
 
 ## GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihaanalif&hide_border=true&hide=html,css&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihaanalif&hide_border=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=raihaanalif&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
 </p>
