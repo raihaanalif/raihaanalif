@@ -1,6 +1,6 @@
 ### Hi there, I'm Alif 👋
 
-I am Raihan Alifianto. I am an undergraduate student of **Informatics ITS**. I love to learn anything about front end!
+I am Raihan Alifianto. I am an undergraduate student of **Informatics ITS 2019**. I love to learn anything about front end!
 
 - 🌱 I’m currently learning on **HTML & CSS**...
 - 📫 You can reach me via:
