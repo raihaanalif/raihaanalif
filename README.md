@@ -13,5 +13,6 @@ I am Raihan Alifianto. I am an undergraduate student of **Informatics ITS 2019**
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihaanalif&hide_border=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=raihaanalif&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Purple_lamborghini24">
 </p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e4stuh3cl6onpo8ya83hqjchp&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
