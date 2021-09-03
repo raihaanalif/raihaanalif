@@ -1,8 +1,8 @@
 ### Hi there, I'm Alif 👋
 
-I am Raihan Alifianto. I am an undergraduate student of **Informatics ITS 2019**. I love to learn anything about Web Developer!
+I am Raihan Alifianto. I am an undergraduate student of **Informatics ITS 2019**. I love to learn anything about Android Development & Web Development!
 
-- 🌱 I’m currently learning on **Laravel Framework**...
+- 🌱 I’m currently learning on **Laravel Framework & Flutter**...
 - 📫 You can reach me via:
     - [📘 Linkedin](https://www.linkedin.com/in/raihan-alifianto/)
     - [📝 Blog](https://raihanalifianto.blogspot.com)
